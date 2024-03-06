@@ -1,10 +1,4 @@
-# React + Vite
+# to-do-list-react
+To-do list in React. Supports adding new elements, ticking them off and deleting them. Uses useEffect hook to store items in local storage.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
-  uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast
-  Refresh
+![todolistreact](https://github.com/JohnnyCiepiela/to-do-list-react/assets/99767967/6852827f-5953-4942-b242-09eb26b38c6b)
