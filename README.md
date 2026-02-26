@@ -1,5 +1,5 @@
 # to-do-list-react
-To-do list in React. Supports adding new elements, ticking them off and deleting them. Uses useEffect hook to store items in local storage.
+To-do list in React. Supports adding new elements, ticking them off and deletions. Uses useEffect hook to store items in local storage.
 
 ## Running the app
 To run the app use **npm run dev**.
